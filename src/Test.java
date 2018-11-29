@@ -3,7 +3,7 @@
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("nbbbbbbbbbb3");
-System.out.println("nbbbbbbbbbb3");
+        String a = "jkjldskdjkas";
+        System.out.println(a.equalsIgnoreCase("jkJldsKdjkaS"));
     }
 }
